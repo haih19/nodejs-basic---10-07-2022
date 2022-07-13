@@ -1,6 +1,6 @@
 import express from "express";
 import getHomePage from '../controller/homeController.js'
-//import function from file.js
+
 
 
 let router = express.Router()
